@@ -28,4 +28,25 @@ This project is a basic rulr based chatbot that communicates with users using pr
 *What I learned:*
 I learned how to use conditional statements(if-elif), loops, and functions to create basic conversational programs.
 
-##
+## Technologies Used
+
+* Python(Core Concepts)
+
+## How to Run the Projects
+
+1. Clone the repository.
+2. Open it in any Python IDE such as VS Code or PyCharm.
+3. Run the Python files using:
+   python filname.py
+
+## About the internship
+
+These projects were completed during the CodeAlpha Python Programming Internship, where I worked on practical tasks such as developing games, chatbots, and small automation tools.
+
+## Final Thoughts
+
+This internship helped me improve my Python fundamentals and gave me the confidence to create small yet meaningful projects. I am excited to continue learning and building more.
+
+## Author
+
+Konkala Pallavi
